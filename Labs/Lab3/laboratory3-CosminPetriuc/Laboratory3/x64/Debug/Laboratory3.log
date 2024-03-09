@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\cosmi\source\repos\laboratory3-CosminPetriuc\Laboratory3\main.cpp(19,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\cosmi\source\repos\laboratory3-CosminPetriuc\Laboratory3\main.cpp(19,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Laboratory3.vcxproj -> C:\Users\cosmi\source\repos\laboratory3-CosminPetriuc\x64\Debug\Laboratory3.exe
