@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\cosmi\source\repos\ooplaboratory2-CosminPetriuc\Problem2\main.c(13,11): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\cosmi\source\repos\ooplaboratory2-CosminPetriuc\Problem2\main.c(34,35): warning C4090: '=': different 'const' qualifiers
+  Problem2.vcxproj -> C:\Users\cosmi\source\repos\ooplaboratory2-CosminPetriuc\x64\Debug\Problem2.exe
