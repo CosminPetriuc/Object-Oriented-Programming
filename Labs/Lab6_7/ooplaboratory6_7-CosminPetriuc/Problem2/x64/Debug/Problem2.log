@@ -1,0 +1,46 @@
+﻿  teste.cpp
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,10): error C2259: 'Entity': cannot instantiate abstract class
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(5,7): message : see declaration of 'Entity'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,10): message : due to following members:
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,10): message : 'std::string Entity::toString(void) const': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(19,22): message : see declaration of 'Entity::toString'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,10): message : 'Entity *Entity::next(const SimulationGrid &)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(21,18): message : see declaration of 'Entity::next'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,10): message : 'EntityType Entity::what(void)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(23,21): message : see declaration of 'Entity::what'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,11): error C2259: 'Entity': cannot instantiate abstract class
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(5,7): message : see declaration of 'Entity'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,11): message : due to following members:
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,11): message : 'std::string Entity::toString(void) const': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(19,22): message : see declaration of 'Entity::toString'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,11): message : 'Entity *Entity::next(const SimulationGrid &)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(21,18): message : see declaration of 'Entity::next'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(17,11): message : 'EntityType Entity::what(void)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(23,21): message : see declaration of 'Entity::what'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(22,10): error C2259: 'Entity': cannot instantiate abstract class
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(5,7): message : see declaration of 'Entity'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(22,10): message : due to following members:
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(22,10): message : 'std::string Entity::toString(void) const': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(19,22): message : see declaration of 'Entity::toString'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(22,10): message : 'Entity *Entity::next(const SimulationGrid &)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(21,18): message : see declaration of 'Entity::next'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(22,10): message : 'EntityType Entity::what(void)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(23,21): message : see declaration of 'Entity::what'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(27,10): error C2259: 'Entity': cannot instantiate abstract class
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(5,7): message : see declaration of 'Entity'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(27,10): message : due to following members:
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(27,10): message : 'std::string Entity::toString(void) const': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(19,22): message : see declaration of 'Entity::toString'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(27,10): message : 'Entity *Entity::next(const SimulationGrid &)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(21,18): message : see declaration of 'Entity::next'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(27,10): message : 'EntityType Entity::what(void)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(23,21): message : see declaration of 'Entity::what'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(33,10): error C2259: 'Entity': cannot instantiate abstract class
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(5,7): message : see declaration of 'Entity'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(33,10): message : due to following members:
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(33,10): message : 'std::string Entity::toString(void) const': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(19,22): message : see declaration of 'Entity::toString'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(33,10): message : 'Entity *Entity::next(const SimulationGrid &)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(21,18): message : see declaration of 'Entity::next'
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\teste.cpp(33,10): message : 'EntityType Entity::what(void)': is abstract
+C:\Users\cosmi\source\repos\ooplaboratory6_7-CosminPetriuc\Problem2\Entity.h(23,21): message : see declaration of 'Entity::what'
