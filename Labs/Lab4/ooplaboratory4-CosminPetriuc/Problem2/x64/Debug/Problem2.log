@@ -1,0 +1,3 @@
+﻿  BigInteger.cpp
+C:\Users\cosmi\source\repos\ooplaboratory4-CosminPetriuc\Problem2\BigInteger.cpp(18,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Problem2.vcxproj -> C:\Users\cosmi\source\repos\ooplaboratory4-CosminPetriuc\x64\Debug\Problem2.exe
